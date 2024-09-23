@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Alejandro arabadan@my.waketech.edu
+2. A place to record and edit my progress with projects
+3. A place where I can work on assignments
+4. I downloaded the desktop version of Github. I opened the application and cloned the repository I created in the web onto the desktop version 
