@@ -1,0 +1,38 @@
+<html>
+<head>
+    <title>HTML Document Structure</title>
+</head>
+
+<body>
+
+<main>
+<section>
+<h1>Cats and Dogs</h1>
+<section>
+    <h2>Heading for Cats</h1>
+        <p> This information on cats. they are hairy or not. 
+        <p> How many poeple have cats.
+</section>
+
+<section>
+    <h2> Heading for Dogs</h2>
+        <p> This is information on dogs.
+        <p> How many poeple have dogs.
+
+</section>
+
+<section>
+    <H2> Elephants </h2>
+        <p> Elephants are big.
+
+</section>
+
+<section>
+    <h2> Another Section
+        <p> Another Paragraph
+</Section>
+
+</main>
+</body>
+
+</html>
