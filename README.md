@@ -6,5 +6,5 @@ I started this degree persuing a career that could financially stabalize my self
 
 ## Websites I recommend
 
-- [ Youtube ] (<https://www.youtube.com/>) - Youtube is the companion you want when eating lunch in a room full of people you could talk to. All jokes, vut Youtube seriously helps visualize anything I need help learning with.
-- [ Webull ] (<https://www.webull.com/>) Webull reminds me of the *sweet highs* of life as well as the devestating lows that've built the resilience in my character.
+- [ Youtube ] (<https://www.youtube.com/>) - Youtube is the companion you want when eating lunch in a room full of people you could talk to. But all jokes aside, Youtube seriously helps visualize anything I need help learning with.
+- [ Webull ] (<https://www.webull.com/>) Webull reminds me of the *sweet highs* of life as well as the devestating lows that've built the resilience in my character.Its an easy to use investing website, also available in mobile, for gathering knowledge about which stocks to wisely invest in.
