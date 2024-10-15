@@ -6,6 +6,17 @@
     <title>Demo Form</title>
     <link rel="stylesheet" href="styles.css">
 </head>
+
+</body>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Demo Form</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
 <body>
 
 <main>
@@ -37,10 +48,19 @@
             <label for="message">Message:</label><br>
             <textarea id="message" name="message" rows="4" required></textarea><br><br>
 
+            <label>Do you like elephants?</label><br>
+            <input type="radio" id="like-elephants-yes" name="like-elephants" value="yes" required>
+            <label for="like-elephants-yes">Yes</label><br>
+            <input type="radio" id="like-elephants-no" name="like-elephants" value="no">
+            <label for="like-elephants-no">No</label><br><br>
+
             <input type="submit" value="Submit">
         </form>
     </section>
 </main>
 
 </body>
+</html>
+
+
 </html>
